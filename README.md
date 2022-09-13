@@ -14,14 +14,15 @@ DS3
 
 1. 碎片，法兰老狼旁 寻梦者骨灰
 2. 大碎片，沙力万后 东人骨灰
-3. 石块，古龙山顶 逐龙者骨灰
+3. 石块/光辉/龙鳞，古龙山顶 逐龙者骨灰
 
 地图
 ------
 
 [中文版](https://steamcommunity.com/sharedfiles/filedetails/?id=2579665474)
 
-[冷冽谷](map/irithyll.md)
+
+[活祭品之路](map/sacrifices.md) [法兰要塞](map/farron.md) [冷冽谷](map/irithyll.md) 
 
 计算器/表格
 ------
