@@ -6,6 +6,8 @@ DS3
 强化
 ------
 
+[光辉楔形石](https://darksouls3.wiki.fextralife.com/Twinkling+Titanite) 
+[龙鳞楔形石](https://darksouls3.wiki.fextralife.com/Titanite+Scale)
 [楔形石圆盘](https://darksouls3.wiki.fextralife.com/Titanite+Slab)
 
 解锁：
@@ -13,7 +15,6 @@ DS3
 1. 碎片，法兰老狼旁 寻梦者骨灰
 2. 大碎片，沙力万后 东人骨灰
 3. 石块，古龙山顶 逐龙者骨灰
-
 
 地图
 ------
